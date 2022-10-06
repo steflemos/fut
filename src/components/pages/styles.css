@@ -1,0 +1,66 @@
+
+.fut {
+    margin: 5rem 0;
+}
+.container-fut {
+    padding: 100px;
+  }
+
+
+  .text {
+    width: 100%;
+
+  }
+
+  .title-1 {
+    text-align: center;
+    margin-bottom: 10%;
+  }
+
+
+
+  .container-fut2 {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0rem;
+  }
+
+  .section1 {
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2rem;
+
+  }
+  .input-palpite{
+    margin-left: 20px;
+    font-size: 80px;
+    width: 100px;
+    height:100px;
+  }
+  .input-palpite2{
+    font-size: 80px;
+    width: 100px;
+    height:100px;
+  }
+  .section {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    padding: 20px;
+    border-radius: 2rem;
+    align-items: center;
+
+  }
+  .title {
+    font-size: 1.5rem;
+  }
+
+    .description {
+      letter-spacing: 0.1rem;
+      line-height: 1.5rem;
+      font-size: 15px;
+      text-align: center;
+    }
