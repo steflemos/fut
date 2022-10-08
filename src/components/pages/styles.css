@@ -64,3 +64,15 @@
       font-size: 15px;
       text-align: center;
     }
+
+button{
+  padding: 10px 20px 10px 20px;
+  border-radius: 5px;
+  font-size: 20px;
+  border: 1px solid #e0ce05;
+  cursor: pointer;
+  background-color: #FFEA00;
+  margin: auto;
+  display: flex;
+  margin-top: 2%;
+}
